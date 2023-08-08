@@ -29,7 +29,6 @@
 		- homosexual_gay_or_lesbian
 		- christian
 		- jewish
-	        - muslim
 		- black
 		- white
 		- asian
